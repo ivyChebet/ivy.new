@@ -105,7 +105,7 @@ import pymysql
 connection = pymysql.connect(
     host='localhost',
     user='root',
-    password='chebet1692#',
+    password='******',
     database='supermarketreports0'
 )
 cursor2=connection.cursor()
